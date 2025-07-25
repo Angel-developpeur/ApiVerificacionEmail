@@ -15,7 +15,7 @@ Este proyecto es una migración y modernización de una funcionalidad originalme
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone <url-del-repositorio>
+    git clone https://github.com/Angel-developpeur/ApiVerificacionEmail.git
     cd email-verification-nest-js
     ```
 
