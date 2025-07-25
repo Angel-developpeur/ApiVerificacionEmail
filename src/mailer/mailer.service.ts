@@ -8,7 +8,7 @@ export class MailerService {
   constructor() {
     // La API key se pasa directamente aquí.
     // Para mayor seguridad en producción, esto debería cargarse desde variables de entorno.
-    this.resend = new Resend('re_GYQGDwhK_HN9sJGqJZB4kgNFnCpFRn2wy');
+    this.resend = new Resend('re_XXXXX');
   }
 
   async sendMail(to: string, subject: string, html: string) {
